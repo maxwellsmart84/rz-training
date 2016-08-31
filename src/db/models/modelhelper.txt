@@ -1,0 +1,7 @@
+Models are DBIndexes
+
+User in Users
+Phone in Phones
+etc
+
+rz create: model Phone Phones (first is model name 2nd is table).
